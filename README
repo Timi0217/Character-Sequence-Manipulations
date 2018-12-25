@@ -1,0 +1,28 @@
+Title: Cheshire ConCATenation - No Strings Attached
+
+Author: Oluwatimilehin Dayo-Kayode
+
+Purpose: Create and manipulate a sequence of characters using multiple functions
+
+Files:
+
+CharSequence.h
+
+This file contains the declaration of the constructors, destructors, functions, and variables that I used in my program. 
+
+
+CharSequence.cpp
+
+This file contains my constructor and function definitions, and initializes all my variables 
+
+testCharSequence.cpp 
+
+This file contains a main.cpp function that I used to test the functions I created and make sure that they worked the way the specifications wanted them to.
+
+README
+
+This file contains a general description and information about my program as a whole
+
+-I used sequences in this program as a way to store a series of characters. Through this homework, I came to the realization that sequences as a data structure are very helpful to a brogrammer in that the data stored in them are easily accessible. I did notice however that they have the disadvantage of not being fluid in that once they are full, they cannot be expanded without making a new pointer and pointing the old one to the new one.
+
+I tested the assignment by putting edge cases that made sure that my exceptions were working. I tested for different lengths of sequences to make sure that the properly.
